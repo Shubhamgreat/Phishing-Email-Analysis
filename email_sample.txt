@@ -1,0 +1,18 @@
+From: service@paypal.com
+To: user@example.com
+Subject: Suspicious activity on your PayPal account
+
+Dear Customer,
+
+We noticed some unusual activity on your PayPal account and we need your help to secure it. Your account has been temporarily limited until we can verify your identity.
+
+Please click the link below to confirm your account information:
+
+https://paypal.com.verify-user-login-update.com
+
+If we don't hear from you within 48 hours, we will assume the account is fraudulent and it will be permanently locked.
+
+Thank you for being a valued customer.
+
+Sincerely,  
+PayPal Account Security Team
